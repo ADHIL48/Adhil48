@@ -10,7 +10,7 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 
 ## 🌟 About Me  
 
-🎓 **B.E. ECE** at **Dr. MCET, Pollachi** (CGPA: 8.6)  
+🎓 **B.E. Electrincs & Communication Engineering** at **Dr. MCET, Pollachi** (CGPA: 8.6)  
 💻 **Software Developer** skilled in **Java**  
 🔧 **Digital Circuits & Verilog HDL**  
 🧩 **Problem Solver** with expertise in **Data Structures, Algorithms, and Competitive Coding**  
