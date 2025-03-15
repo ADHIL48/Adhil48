@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 Adhil M 
 
-<!--
-**ADHIL48/Adhil48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! ✨
+💻 Java & SQL Developer | 🔧 Digital Circuits Enthusiast | 🧩 Problem Solver
 
-Here are some ideas to get you started:
+🚀Passionate about solving problems with efficient code. Focused on Java, SQL, digital circuits, and signal processing. Always pushing boundaries to create solutions and learn new technologies. Let's collaborate and build something amazing! 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me
+🎓 B. E ECE at Dr. MCET, Pollachi (CGPA: 8.6)
+💻 Software Developer skilled in Java
+🔧 Digital Circuits & Signal Processing
+🧩 Problem Solver with expertise in Data Structures, Algorithms, and Competitive Coding
+📚 Always learning and evolving to stay ahead in the tech world.
+
