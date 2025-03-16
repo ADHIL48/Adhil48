@@ -45,8 +45,13 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 ---
 
 ## 📈 GitHub Stats  
-![Adhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADHIL48&show_icons=true&theme=radical)   
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Adhil48?theme=dark&font=Karma)](https://leetcode.com/u/Adhil48/)
+![Adhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADHIL48&show_icons=true&theme=radical)  
+
+---
+
+## 🏆 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Adhil48?theme=dark&font=Karma)](https://leetcode.com/u/Adhil48/)  
+
 ---
 
 ## 💼 Connect with Me  
