@@ -131,7 +131,9 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 
 
 <h2 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="30px"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=700&lines=+THANK+YOU+FOR+VISITING+MY+GITHUB+PROFILE!+;🚀+Let's+build+something+amazing+together!">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="30px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=700&lines=+THANK+YOU+FOR+VISITING+MY+GITHUB+PROFILE!+;🚀+Let's+build+something+amazing+together!">
+
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="30px">  
 </h2>
 
