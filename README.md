@@ -46,7 +46,7 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 
 ---
 
-## 📈 GitHub Stats  
+## 🚀 GitHub Stats  
 ![Adhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADHIL48&show_icons=true&theme=tokyonight)  
 
 
@@ -56,8 +56,10 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ADHIL48&theme=tokyonight)
 
-
+### 👀 Profile Views 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ADHIL48&color=blue&style=plastic)
+
+
 
 
 ---
@@ -68,10 +70,15 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 
 ---
 ## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADHIL48&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADHIL48&layout=compact&theme=tokyonight) 
+---
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/ADHIL48/ADHIL48/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
 
 ---
-
 ## 💼 Connect with Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-ADHIL48-181717?style=for-the-badge&logo=github)](https://github.com/ADHIL48)  
