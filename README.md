@@ -1,12 +1,8 @@
-
-
 ![Adhil48 Banner Image](./banner.jpg)
 
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Adhil+M+😊;Welcome+to+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=8A2BE2&background=2E1A47&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Adhil+M+😊;Welcome+to+My+GitHub+Profile!">
 </h1>
-<!-- 🏆 Social Media & Contact Badges -->
 <p align="center">
   <a href="https://github.com/ADHIL48">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
@@ -24,8 +20,9 @@
 
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  𝗜'𝗠 𝗔𝗗𝗛𝗜𝗟 ! 
- <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Big Smile Emoji" width="280px" align="right">
-💻 Java & SQL Developer | 🔧 Digital Circuits Enthusiast | 🧩 Problem Solver
+ <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Big Smile Emoji" width="230px" align="right">
+
+**💻 Java & SQL Developer | 🔧 Digital Circuits Enthusiast | 🧩 Problem Solver**
 
 🚀 Passionate about solving problems with efficient code.  Focused on **Java, SQL, Digital Circuits, and Verilog HDL**. 
 Always pushing boundaries to create **innovative solutions** and learn **new technologies**.  Let's collaborate and build something amazing! 🌟  
@@ -73,20 +70,22 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 ---
-## 🚀 GitHub Stats 
 
+## 🚀 My GitHub Stats & 🔥Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADHIL48&show_icons=true&theme=tokyonight&bg_color=1A1B26&title_color=7AA2F7&text_color=BB9AF7&icon_color=7DCFFF" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADHIL48&theme=tokyonight&background=1A1B26&hide_border=true" width="48%">
+  <a href="https://github.com/ADHIL48">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ADHIL48&show_icons=true&theme=tokyonight&bg_color=1A1B26&title_color=7AA2F7&text_color=BB9AF7&icon_color=7DCFFF" width="47%" style="margin-right: 30px;">
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ADHIL48&theme=tokyonight&hide_border=false&border_radius=10&fire=F39C12&ring=7AA2F7&currStreakLabel=BB9AF7" width="47%">
+  </a>
 </p>
 
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ADHIL48&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" width="90%">
 </p>
-
-
 
 ## 🚀 GitHub Insights  
 
@@ -129,9 +128,12 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day">
 </p>
----
 
-🚀 **Let's build something amazing together!**  
-Thanks for visiting my profile! 😊  
+
+<h2 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="60px">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=700&lines=+THANK+YOU+FOR+VISITING+MY+GITHUB+PROFILE!+;🚀+Let's+build+something+amazing+together!">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="60px">  
+</h2>
 
 
