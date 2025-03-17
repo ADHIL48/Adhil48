@@ -1,4 +1,23 @@
- Hi there 👋 I'm Adhil M  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Adhil+M+😊;Welcome+to+My+GitHub+Profile!">
+</h1>
+
+<!-- 🏆 Social Media & Contact Badges -->
+<p align="center">
+  <a href="https://github.com/ADHIL48">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+  <a href="https://linkedin.com/in/adhil-m-5632a6257">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+  <a href="mailto:mohammedadhil0408@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/916382191903">
+    <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
 
  ## 😊 Welcome to My GitHub Profile!  ✨  
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="140px" align="right">
@@ -45,19 +64,30 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 ---
-
 ## 🚀 GitHub Stats  
-![Adhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADHIL48&show_icons=true&theme=tokyonight)  
-
-
-## 🔥 My GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ADHIL48&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADHIL48&show_icons=true&theme=tokyonight&bg_color=1A1B26&title_color=7AA2F7&text_color=BB9AF7&icon_color=7DCFFF" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADHIL48&theme=tokyonight&background=1A1B26&hide_border=true" width="48%">
+</p>
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ADHIL48&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ADHIL48&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" width="90%">
+</p>
 
-### 👀 Profile Views 
-![Visitor Count](https://komarev.com/ghpvc/?username=ADHIL48&color=blue&style=plastic)
+
+
+## 🚀 GitHub Insights  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ADHIL48&color=blue&style=plastic" alt="Profile Views">
+  <a href="https://github.com/ADHIL48?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=plastic&logo=github&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/github/stars/ADHIL48?style=plastic&color=yellow" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/followers/ADHIL48?style=plastic&color=blue" alt="GitHub Followers">
+</p>
+
 
 
 
