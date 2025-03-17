@@ -1,9 +1,11 @@
 
 
+![Adhil48 Banner Image](./banner.jpg)
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Adhil+M+😊;Welcome+to+My+GitHub+Profile!">
 </h1>
-
 <!-- 🏆 Social Media & Contact Badges -->
 <p align="center">
   <a href="https://github.com/ADHIL48">
@@ -19,24 +21,22 @@
     <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
-       alt="Big Smile Emoji" width="250px">
-</p>
 
 
- ## 😊 Welcome to My GitHub Profile!  ✨  
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="140px" align="right">
-
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  𝗜'𝗠 𝗔𝗗𝗛𝗜𝗟 ! 
+ <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Big Smile Emoji" width="280px" align="right">
 💻 Java & SQL Developer | 🔧 Digital Circuits Enthusiast | 🧩 Problem Solver
 
-🚀 Passionate about solving problems with efficient code.  Focused on **Java, SQL, Digital Circuits, and Verilog HDL**.  
+🚀 Passionate about solving problems with efficient code.  Focused on **Java, SQL, Digital Circuits, and Verilog HDL**. 
 Always pushing boundaries to create **innovative solutions** and learn **new technologies**.  Let's collaborate and build something amazing! 🌟  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ADHIL48&color=blue&style=plastic" alt="Profile Views">
+</p>
 
 ---
 
 ## 🌟 About Me  
-
 🎓 **B.E. Electrincs & Communication Engineering** at **Dr. MCET, Pollachi** (CGPA: 8.6)  
 💻 **Software Developer** skilled in **Java**  
 🔧 **Digital Circuits & Verilog HDL**  
@@ -74,7 +74,6 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 
 ---
 ## 🚀 GitHub Stats 
-
 
 
 <p align="center">
@@ -116,6 +115,7 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 
 ---
 ## 💼 Connect with Me  
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="140px" align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ADHIL48-181717?style=for-the-badge&logo=github)](https://github.com/ADHIL48)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adhil%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhil-m-5632a6257)  
