@@ -1,10 +1,12 @@
  Hi there 👋 I'm Adhil M  
 
-## Welcome to my GitHub profile! ✨  
-💻 **Java & SQL Developer** | 🔧 **Digital Circuits Enthusiast** | 🧩 **Problem Solver**  
+ ## 😊 Welcome to My GitHub Profile!  ✨  
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="140px" align="right">
 
-🚀 Passionate about solving problems with efficient code. Focused on **Java, SQL, Digital Circuits, and Verilog HDL**.  
-Always pushing boundaries to create **innovative solutions** and learn **new technologies**. Let's collaborate and build something amazing! 🌟  
+💻 Java & SQL Developer | 🔧 Digital Circuits Enthusiast | 🧩 Problem Solver
+
+🚀 Passionate about solving problems with efficient code.  Focused on **Java, SQL, Digital Circuits, and Verilog HDL**.  
+Always pushing boundaries to create **innovative solutions** and learn **new technologies**.  Let's collaborate and build something amazing! 🌟  
 
 ---
 
@@ -45,12 +47,28 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 ---
 
 ## 📈 GitHub Stats  
-![Adhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADHIL48&show_icons=true&theme=radical)  
+![Adhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADHIL48&show_icons=true&theme=tokyonight)  
+
+
+## 🔥 My GitHub Streak  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ADHIL48&theme=tokyonight)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ADHIL48&theme=tokyonight)
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ADHIL48&color=blue&style=plastic)
+
 
 ---
 
 ## 🏆 LeetCode Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Adhil48?theme=dark&font=Karma)](https://leetcode.com/u/Adhil48/)  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Adhil48?theme=unicorn)](https://leetcode.com/Adhil48/)
+
+---
+## 📊 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADHIL48&layout=compact&theme=tokyonight)
 
 ---
 
