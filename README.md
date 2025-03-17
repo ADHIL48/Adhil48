@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Adhil+M+😊;Welcome+to+My+GitHub+Profile!">
 </h1>
@@ -16,6 +19,10 @@
   <a href="https://wa.me/916382191903">
     <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
+       alt="Big Smile Emoji" width="250px">
 </p>
 
 
@@ -41,11 +48,14 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 
 ## 🛠 Languages and Tools  
 
-### 💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+### 💻 Programming Languages 
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Big Smile Emoji" width="150px" align="left">![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Verilog HDL](https://img.shields.io/badge/VerilogHDL-DC382D?style=for-the-badge&logo=verilog&logoColor=white)  
+
+
 
 ### 🔧 Tools & Technologies  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
