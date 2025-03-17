@@ -1,6 +1,5 @@
 
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=650&lines=Hi+there+👋+I'm+Adhil+M+😊;Welcome+to+My+GitHub+Profile!">
 </h1>
@@ -74,7 +73,10 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 ---
-## 🚀 GitHub Stats  
+## 🚀 GitHub Stats 
+
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ADHIL48&show_icons=true&theme=tokyonight&bg_color=1A1B26&title_color=7AA2F7&text_color=BB9AF7&icon_color=7DCFFF" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADHIL48&theme=tokyonight&background=1A1B26&hide_border=true" width="48%">
@@ -112,7 +114,6 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 ## 📊 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADHIL48&layout=compact&theme=tokyonight) 
 
-
 ---
 ## 💼 Connect with Me  
 
@@ -121,6 +122,13 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 [![Email](https://img.shields.io/badge/Email-mohammedadhil0408%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedadhil0408@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-6382191903-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916382191903)  
 
+---
+
+
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day">
+</p>
 ---
 
 🚀 **Let's build something amazing together!**  
