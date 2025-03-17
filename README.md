@@ -71,12 +71,7 @@ Always pushing boundaries to create **innovative solutions** and learn **new tec
 ---
 ## 📊 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADHIL48&layout=compact&theme=tokyonight) 
----
-## 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://github.com/ADHIL48/ADHIL48/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
 
 ---
 ## 💼 Connect with Me  
